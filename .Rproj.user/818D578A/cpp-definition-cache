@@ -1,0 +1,438 @@
+[
+    {
+        "file": "G:/Mit drev/Speciale/LassoBoot/src/Helper_functions/colmax.h",
+        "file_last_write": 1683119052.0,
+        "definitions": [
+            {
+                "usr": "c:@F@colMaxs#&1I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "colMaxs(const int &)",
+                "file": "G:/Mit drev/Speciale/LassoBoot/src/Helper_functions/colmax.h",
+                "line": 4,
+                "column": 18
+            }
+        ]
+    },
+    {
+        "file": "G:/Mit drev/Speciale/LassoBoot/src/Helper_functions/f.h",
+        "file_last_write": 1675938695.0,
+        "definitions": [
+            {
+                "usr": "c:@F@f#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "f(int)",
+                "file": "G:/Mit drev/Speciale/LassoBoot/src/Helper_functions/f.h",
+                "line": 1,
+                "column": 8
+            }
+        ]
+    },
+    {
+        "file": "G:/Mit drev/Speciale/LassoBoot/src/Helper_functions/generateAR.cpp",
+        "file_last_write": 1680280084.0,
+        "definitions": [
+            {
+                "usr": "c:@F@generateAR#I#I#d#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "generateAR(int, int, double, double)",
+                "file": "G:/Mit drev/Speciale/LassoBoot/src/Helper_functions/generateAR.cpp",
+                "line": 16,
+                "column": 11
+            }
+        ]
+    },
+    {
+        "file": "G:/Mit drev/Speciale/LassoBoot/src/Helper_functions/generateAR.h",
+        "file_last_write": 1680280126.0,
+        "definitions": [
+            {
+                "usr": "c:@F@generateAR#I#I#d#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "generateAR(int, int, double, double)",
+                "file": "G:/Mit drev/Speciale/LassoBoot/src/Helper_functions/generateAR.h",
+                "line": 1,
+                "column": 11
+            }
+        ]
+    },
+    {
+        "file": "G:/Mit drev/Speciale/LassoBoot/src/Helper_functions/generateX.cpp",
+        "file_last_write": 1678813136.0,
+        "definitions": [
+            {
+                "usr": "c:@F@generateX#I#I#d#b#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "generateX(int, int, double, bool)",
+                "file": "G:/Mit drev/Speciale/LassoBoot/src/Helper_functions/generateX.cpp",
+                "line": 17,
+                "column": 11
+            }
+        ]
+    },
+    {
+        "file": "G:/Mit drev/Speciale/LassoBoot/src/Helper_functions/generateX.h",
+        "file_last_write": 1678813410.0,
+        "definitions": [
+            {
+                "usr": "c:@F@generateX#I#I#d#b#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "generateX(int, int, double, bool)",
+                "file": "G:/Mit drev/Speciale/LassoBoot/src/Helper_functions/generateX.h",
+                "line": 1,
+                "column": 11
+            }
+        ]
+    },
+    {
+        "file": "G:/Mit drev/Speciale/LassoBoot/src/Helper_functions/matrep.h",
+        "file_last_write": 1683118806.0,
+        "definitions": [
+            {
+                "usr": "c:@F@matrep#&1I#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "matrep(const int &, const int &, const int &, const int &)",
+                "file": "G:/Mit drev/Speciale/LassoBoot/src/Helper_functions/matrep.h",
+                "line": 4,
+                "column": 18
+            }
+        ]
+    },
+    {
+        "file": "G:/Mit drev/Speciale/LassoBoot/src/Helper_functions/quantiles_arma.cpp",
+        "file_last_write": 1679576247.0,
+        "definitions": [
+            {
+                "usr": "c:@F@quantile_arma#&1I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "quantile_arma(const int &, double)",
+                "file": "G:/Mit drev/Speciale/LassoBoot/src/Helper_functions/quantiles_arma.cpp",
+                "line": 8,
+                "column": 8
+            }
+        ]
+    },
+    {
+        "file": "G:/Mit drev/Speciale/LassoBoot/src/Helper_functions/quantiles_arma.h",
+        "file_last_write": 1683117977.0,
+        "definitions": [
+            {
+                "usr": "c:@F@quantile_arma#I#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "quantile_arma(int, double)",
+                "file": "G:/Mit drev/Speciale/LassoBoot/src/Helper_functions/quantiles_arma.h",
+                "line": 4,
+                "column": 15
+            }
+        ]
+    },
+    {
+        "file": "G:/Mit drev/Speciale/LassoBoot/src/Helper_functions/rep.cpp",
+        "file_last_write": 1675465787.0,
+        "definitions": [
+            {
+                "usr": "c:@F@matrep#&1I#S0_#S0_#S0_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "matrep(const int &, const int &, const int &, const int &)",
+                "file": "G:/Mit drev/Speciale/LassoBoot/src/Helper_functions/rep.cpp",
+                "line": 7,
+                "column": 11
+            }
+        ]
+    },
+    {
+        "file": "G:/Mit drev/Speciale/LassoBoot/src/Helper_functions/scale.h",
+        "file_last_write": 1675945737.0,
+        "definitions": [
+            {
+                "usr": "c:@F@colMeans#&1I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "colMeans(const int &)",
+                "file": "G:/Mit drev/Speciale/LassoBoot/src/Helper_functions/scale.h",
+                "line": 2,
+                "column": 11
+            },
+            {
+                "usr": "c:@F@f#&1I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "f(const int &)",
+                "file": "G:/Mit drev/Speciale/LassoBoot/src/Helper_functions/scale.h",
+                "line": 8,
+                "column": 8
+            },
+            {
+                "usr": "c:@F@scaleData#&1I#1b#1b#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "scaleData(const int &, const bool, const bool)",
+                "file": "G:/Mit drev/Speciale/LassoBoot/src/Helper_functions/scale.h",
+                "line": 17,
+                "column": 11
+            }
+        ]
+    },
+    {
+        "file": "G:/Mit drev/Speciale/LassoBoot/src/Main_functions/criterionquantiles.cpp",
+        "file_last_write": 1681135373.0,
+        "definitions": [
+            {
+                "usr": "c:@F@colMaxs#&1I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "colMaxs(const int &)",
+                "file": "G:/Mit drev/Speciale/LassoBoot/src/Main_functions/criterionquantiles.cpp",
+                "line": 20,
+                "column": 11
+            },
+            {
+                "usr": "c:@F@criterionquantiles#&1I#S0_#S0_#S0_#I#I#$@N@std@N@__cxx11@S@basic_string>#C#$@N@std@S@char_traits>#C#$@N@std@S@allocator>#C#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "criterionquantiles(const int &, const int &, const int &, const int &, int, int, std::string)",
+                "file": "G:/Mit drev/Speciale/LassoBoot/src/Main_functions/criterionquantiles.cpp",
+                "line": 31,
+                "column": 11
+            }
+        ]
+    },
+    {
+        "file": "G:/Mit drev/Speciale/LassoBoot/src/Main_functions/quantileestimated.cpp",
+        "file_last_write": 1675696030.0,
+        "definitions": [
+            {
+                "usr": "c:@F@quantileestimated#&1I#S0_#S0_#&I#S1_#I#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "quantileestimated(const int &, const int &, const int &, int &, int &, int, int)",
+                "file": "G:/Mit drev/Speciale/LassoBoot/src/Main_functions/quantileestimated.cpp",
+                "line": 14,
+                "column": 11
+            }
+        ]
+    },
+    {
+        "file": "G:/Mit drev/Speciale/LassoBoot/src/Main_functions/quantileoracle.cpp",
+        "file_last_write": 1683117092.0,
+        "definitions": [
+            {
+                "usr": "c:@F@quantileoracle#I#I#d#d#&1I#f#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "quantileoracle(int, int, double, double, const int &, float, int)",
+                "file": "G:/Mit drev/Speciale/LassoBoot/src/Main_functions/quantileoracle.cpp",
+                "line": 20,
+                "column": 11
+            }
+        ]
+    },
+    {
+        "file": "G:/Mit drev/Speciale/LassoBoot/src/Main_functions/quantileoracleconditional.cpp",
+        "file_last_write": 1677498598.0,
+        "definitions": [
+            {
+                "usr": "c:@F@quantileoracleconditional#&1I#S0_#f#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "quantileoracleconditional(const int &, const int &, float, int)",
+                "file": "G:/Mit drev/Speciale/LassoBoot/src/Main_functions/quantileoracleconditional.cpp",
+                "line": 16,
+                "column": 11
+            }
+        ]
+    },
+    {
+        "file": "G:/Mit drev/Speciale/LassoBoot/src/block_bootstrap/block_bootstrap.cpp",
+        "file_last_write": 1679575795.0,
+        "definitions": [
+            {
+                "usr": "c:@F@block_bootstrap#1I#I#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "block_bootstrap(const int, int, int)",
+                "file": "G:/Mit drev/Speciale/LassoBoot/src/block_bootstrap/block_bootstrap.cpp",
+                "line": 12,
+                "column": 11
+            }
+        ]
+    },
+    {
+        "file": "G:/Mit drev/Speciale/LassoBoot/src/block_bootstrap/block_bootstrap.h",
+        "file_last_write": 1679578658.0,
+        "definitions": [
+            {
+                "usr": "c:@F@block_bootstrap#1I#I#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "block_bootstrap(const int, int, int)",
+                "file": "G:/Mit drev/Speciale/LassoBoot/src/block_bootstrap/block_bootstrap.h",
+                "line": 1,
+                "column": 11
+            }
+        ]
+    },
+    {
+        "file": "G:/Mit drev/Speciale/LassoBoot/src/block_bootstrap/block_bootstrap.m",
+        "file_last_write": 1678356071.0,
+        "definitions": []
+    },
+    {
+        "file": "G:/Mit drev/Speciale/LassoBoot/src/block_bootstrap/stationary_bootstrap.cpp",
+        "file_last_write": 1679572948.0,
+        "definitions": [
+            {
+                "usr": "c:@F@stationary_bootstrap#1I#I#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "stationary_bootstrap(const int, int, int)",
+                "file": "G:/Mit drev/Speciale/LassoBoot/src/block_bootstrap/stationary_bootstrap.cpp",
+                "line": 12,
+                "column": 11
+            }
+        ]
+    },
+    {
+        "file": "G:/Mit drev/Speciale/LassoBoot/src/block_bootstrap/stationary_bootstrap.h",
+        "file_last_write": 1679572809.0,
+        "definitions": [
+            {
+                "usr": "c:@F@stationary_bootstrap#1I#I#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "stationary_bootstrap(const int, int, int)",
+                "file": "G:/Mit drev/Speciale/LassoBoot/src/block_bootstrap/stationary_bootstrap.h",
+                "line": 1,
+                "column": 11
+            }
+        ]
+    },
+    {
+        "file": "G:/Mit drev/Speciale/LassoBoot/src/block_bootstrap/stationary_bootstrap.m",
+        "file_last_write": 1678356041.0,
+        "definitions": []
+    },
+    {
+        "file": "G:/Mit drev/Speciale/LassoBoot/src/criterionquantiles.cpp",
+        "file_last_write": 1683118535.0,
+        "definitions": [
+            {
+                "usr": "c:@F@colMaxs#&1I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "colMaxs(const int &)",
+                "file": "G:/Mit drev/Speciale/LassoBoot/src/criterionquantiles.cpp",
+                "line": 20,
+                "column": 11
+            },
+            {
+                "usr": "c:@F@criterionquantiles#&1I#S0_#S0_#S0_#I#I#$@N@std@N@__cxx11@S@basic_string>#C#$@N@std@S@char_traits>#C#$@N@std@S@allocator>#C#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "criterionquantiles(const int &, const int &, const int &, const int &, int, int, std::string)",
+                "file": "G:/Mit drev/Speciale/LassoBoot/src/criterionquantiles.cpp",
+                "line": 63,
+                "column": 11
+            }
+        ]
+    },
+    {
+        "file": "G:/Mit drev/Speciale/LassoBoot/src/lasso.cpp",
+        "file_last_write": 1683121379.0,
+        "definitions": [
+            {
+                "usr": "c:@F@lasso#&1I#S0_#I#I#d#d#d#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "lasso(const int &, const int &, int, int, double, double, double)",
+                "file": "G:/Mit drev/Speciale/LassoBoot/src/lasso.cpp",
+                "line": 27,
+                "column": 11
+            }
+        ]
+    },
+    {
+        "file": "G:/Mit drev/Speciale/LassoBoot/src/moving_block_bootstrap.cpp",
+        "file_last_write": 1683119922.0,
+        "definitions": [
+            {
+                "usr": "c:@F@moving_block_bootstrap#1I#I#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "moving_block_bootstrap(const int, int, int)",
+                "file": "G:/Mit drev/Speciale/LassoBoot/src/moving_block_bootstrap.cpp",
+                "line": 26,
+                "column": 11
+            }
+        ]
+    },
+    {
+        "file": "G:/Mit drev/Speciale/LassoBoot/src/quantileestimated.cpp",
+        "file_last_write": 1683119277.0,
+        "definitions": [
+            {
+                "usr": "c:@F@quantileestimated#&1I#S0_#S0_#&I#S1_#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "quantileestimated(const int &, const int &, const int &, int &, int &)",
+                "file": "G:/Mit drev/Speciale/LassoBoot/src/quantileestimated.cpp",
+                "line": 52,
+                "column": 11
+            }
+        ]
+    },
+    {
+        "file": "G:/Mit drev/Speciale/LassoBoot/src/quantileoracle.cpp",
+        "file_last_write": 1683118648.0,
+        "definitions": [
+            {
+                "usr": "c:@F@quantileoracle#I#I#d#d#&1I#f#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "quantileoracle(int, int, double, double, const int &, float, int)",
+                "file": "G:/Mit drev/Speciale/LassoBoot/src/quantileoracle.cpp",
+                "line": 44,
+                "column": 11
+            }
+        ]
+    },
+    {
+        "file": "G:/Mit drev/Speciale/LassoBoot/src/quantileoracleconditional.cpp",
+        "file_last_write": 1683119602.0,
+        "definitions": [
+            {
+                "usr": "c:@F@quantileoracleconditional#&1I#S0_#f#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "quantileoracleconditional(const int &, const int &, float, int)",
+                "file": "G:/Mit drev/Speciale/LassoBoot/src/quantileoracleconditional.cpp",
+                "line": 34,
+                "column": 11
+            }
+        ]
+    },
+    {
+        "file": "G:/Mit drev/Speciale/LassoBoot/src/stationary_bootstrap.cpp",
+        "file_last_write": 1683119916.0,
+        "definitions": [
+            {
+                "usr": "c:@F@stationary_block_bootstrap#1I#I#I#",
+                "kind": 6,
+                "parent_name": "",
+                "name": "stationary_block_bootstrap(const int, int, int)",
+                "file": "G:/Mit drev/Speciale/LassoBoot/src/stationary_bootstrap.cpp",
+                "line": 25,
+                "column": 11
+            }
+        ]
+    }
+]

@@ -1,0 +1,2 @@
+This package implements many functions that are taken directly from the work by Lederer & Vogt from the paper "Estimating the Lasso's Effective Noise" from 2021. https://www.jmlr.org/papers/volume22/20-539/20-539.pdf
+Under the license: https://creativecommons.org/licenses/by/4.0/

@@ -1,0 +1,11 @@
+Package: LassoBoot
+Type: Package
+Title: Estimation of The Lasso's Effective Noise on Time-Dependent Data
+Version: 1.0
+Date: 2023-05-15
+Author: Jonas Touabti Ahooei
+Maintainer: <jonasahooei@gmail.com>
+Description: An implementation and extension of the methodology presented by Lederer & Vogt in "Estimating the Lasso's Effective Noise". The package includes function that estimates the quantiles of the lasso's noise effective noise for time dependent data.
+License: CC BY 4.0
+Imports: Rcpp (>= 1.0.8)
+LinkingTo: Rcpp, RcppArmadillo

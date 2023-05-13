@@ -1,0 +1,3 @@
+useDynLib(LassoBoot, .registration=TRUE)
+importFrom(Rcpp, evalCpp)
+exportPattern("^[[:alpha:]]+")
